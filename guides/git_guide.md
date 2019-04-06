@@ -21,6 +21,7 @@ Para añadir un cambio o desarrollo al proyecto se recomienda seguir el siguient
 1. Creacion de una rama a partir de la rama develop
 
 ![New branch](./images/guide_1.PNG)
+
 2. Descargar todas las ramas desde la consola
 ~~~~~~
 git fetch
@@ -64,8 +65,12 @@ git checkout <rama>
 git push origin <rama>
 ~~~~~~
 4. Realizar un pull request y merge request desde github
+
 ![Create pull request](./images/guide_2.PNG)
+
 ![Merge changes](./images/guide_3.PNG)
 
 Una vez realizado el procesose puede observar el esquema de ramas
+
 ![Merge changes](./images/guide_4.PNG)
+
