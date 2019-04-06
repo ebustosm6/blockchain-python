@@ -15,5 +15,5 @@ Para estas ramas se utiliza la nomenclatura siguiente:
 
 ## Procedimiento de creacion de una rama
 1. Creacion de una issue en el repositorio
-![New issue](/images/guide_1.PNG)
+![New issue](./images/guide_1.PNG)
 2. Crear una rama a partir de la issue
