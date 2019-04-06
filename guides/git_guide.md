@@ -14,6 +14,18 @@ Para estas ramas se utiliza la nomenclatura siguiente:
 - Para nuevas funcionalidades: [ FEATURE ] + Descripcion del problema a arreglar
 
 ## Procedimiento de creacion de una rama
-1. Creacion de una issue en el repositorio
-![New issue](./images/guide_1.PNG)
-2. Crear una rama a partir de la issue
+Para añadir un cambio o desarrollo al proyecto se recomienda seguir el siguiente workflow:
+1. Creacion de una rama a partir de la rama develop
+![New branch](./images/guide_1.PNG)
+2. Descargar todas las ramas desde la consola
+~~~~~~
+git fetch
+~~~~~~
+3. Cambiar a la nueva rama para trabajar sobre ella
+~~~~~~
+git checkout <rama>
+~~~~~~
+4. Realizar los cambios que se requieran en local
+
+## Procedimiento de subida de cambios desde una rama
+Para 
