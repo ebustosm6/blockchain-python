@@ -70,7 +70,7 @@ git push origin <rama>
 
 ![Merge changes](./images/guide_3.PNG)
 
-Una vez realizado el procesose puede observar el esquema de ramas
+Una vez realizado el proceso se puede observar el esquema de ramas
 
 ![Merge changes](./images/guide_4.PNG)
 
